@@ -17,5 +17,5 @@ createRoot(document.getElementById('root')!).render(
       <CssBaseline />
       <App />
     </SnackbarProvider>
-  </StrictMode>,
+  </StrictMode>
 )
